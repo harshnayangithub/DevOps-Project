@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django
 
-![todo App](http://127.0.0.1:8000/todos/)
+![todo App]{DevOps-Project/django.png}
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
