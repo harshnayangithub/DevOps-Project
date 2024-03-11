@@ -7,9 +7,10 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 $ git clone https://github.com/harshnayangithub/django-todo.git
 ```
+```bash
 $ pip install -r requirements.txt
+```
 
-d
 
 ```bash
 $ python manage.py makemigrations
