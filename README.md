@@ -5,11 +5,11 @@ A simple todo app built with django
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-$ git clone https://github.com/shreys7/django-todo.git
+$ git clone https://github.com/harshnayangithub/django-todo.git
 ```
 pip install -r requirements.txt
 
-Once you have downloaded django, go to the cloned repo directory and run the following command
+d
 
 ```bash
 $ python manage.py makemigrations
@@ -35,4 +35,3 @@ $ python manage.py runserver
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
-Cheers and Happy Coding :)
