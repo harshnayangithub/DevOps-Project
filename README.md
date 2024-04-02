@@ -40,3 +40,4 @@ Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 
 Deployed on EC2 Instance- http://44.201.239.99:8000/todos/
+This link is not accessible as the EC2 instance has been stopped.
